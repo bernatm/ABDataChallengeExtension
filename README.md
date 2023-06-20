@@ -1,7 +1,7 @@
 # ABDataChallengeExtension
 Python notebooks for Bachelor's final thesis on Mathematical Engineering on Data Science.
 
-#Abstract
+## Abstract
 This research aims to use machine learning algorithms to predict future water use after
 analysing water data usage in Barcelona from 2019 to 2021. This study will use geo-temporal
 data to evaluate consumption trends in several areas and time durations. The main goal is
@@ -15,5 +15,5 @@ water resources might be handled more effectively and can be applied to other ci
 the corresponding adaptations.
 
 
-#Keywords
+## Keywords
 Water consumption, spatial data, temporal data, clustering, time series forecasting
