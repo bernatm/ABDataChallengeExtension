@@ -1,4 +1,4 @@
-# ABDataChallengeExtension
+# Optimizing Water Management in Barcelona through Data Analysis and Machine Learning Models: AB Data Challenge Extension
 Python notebooks for Bachelor's final thesis on Mathematical Engineering on Data Science.
 
 ## Abstract
